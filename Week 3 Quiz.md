@@ -31,5 +31,5 @@ Correct	1.00
 
 #Question 5
 If you run debug(ls)   what happens when you next call the 'ls' function?
-Execution of 'ls' will suspend at the beginning of the function and you will be in the browser.	
+Execution of 'ls' will suspend at the beginning of the function and you will be in the browser.
 Correct	1.00
