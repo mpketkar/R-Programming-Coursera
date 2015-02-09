@@ -1,6 +1,6 @@
 # R-Programming-Coursera
 
-#Question 1: The R language is a dialect of which of the following programming languages?
+Question 1: The R language is a dialect of which of the following programming languages?
 S	
 Correct	1.00	
 R is a dialect of the S language which was developed at Bell Labs.
@@ -119,5 +119,4 @@ Correct	1.00
 Question 20
 What was the maximum ozone value in the month of May (i.e. Month = 5)?
 115	
-Correct	1.00	
-
+Correct	1.00
