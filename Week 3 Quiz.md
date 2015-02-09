@@ -5,7 +5,7 @@ data(iris)
 A description of the dataset can be found by running
 ?iris
 There will be an object called 'iris' in your workspace. In this dataset, what is the mean of 'Sepal.Length' for the species virginica? (Please only enter the numeric result and nothing else.)  
-*_Answer: _* 6.588	 
+**Answer: **  6.588	 
 Correct	1.00  
 To get the answer here, you can use 'tapply' to calculate the mean of 'Sepal.Length' within each species. 
   
