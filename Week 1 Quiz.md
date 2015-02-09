@@ -5,12 +5,15 @@ S
 Correct	1.00	
 R is a dialect of the S language which was developed at Bell Labs.
 
+
 Question 2
 The definition of free software consists of four freedoms (freedoms 0 through 3). Which of the following is NOT one of the freedoms that are part of the definition?
 The freedom to sell the software for any price.	
 Correct	1.00	
 This is not part of the free software definition. The free software definition does not mention anything about selling software (although it does not disallow it).
 The freedom to redistribute copies so you can help your neighbor.			
+
+
 
 Question 3
 In R the following are all atomic data types EXCEPT
