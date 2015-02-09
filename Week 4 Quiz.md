@@ -24,7 +24,7 @@ It ensures that the sequence of random numbers is truly random.
 ---
 #Question 4#  
 Which function can be used to evaluate the inverse cumulative distribution function for the Poisson distribution?  
-**Answer: qpois  **
+**Answer: qpois**  
 Correct	1.00  
 Probability distribution functions beginning with the `q' prefix are used to evaluate the quantile (inverse cumulative distribution) function.    
   
